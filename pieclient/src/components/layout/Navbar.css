@@ -1,0 +1,25 @@
+.navbar {
+    background: #4DB8B8;
+    font-size: 30px;
+    text-align: right;
+    font-family: 'Niramit', sans-serif;
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin-top: 0px;
+}
+
+li {
+    display: inline;
+    margin: 0px 10px 0px 10px;
+}
+li a{
+    color: purple;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: #AFECEC;
+}
